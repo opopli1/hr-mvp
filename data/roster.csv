@@ -1,0 +1,7 @@
+employee_id,payroll_id,name,gender,birthdate,age_group,team,part,title,start_date,probation_end,resignation_date,tenure_text,prior_experience_text,total_experience_text,contract_type,phone,email,work_location,job_type,employment_status,employment_status_detail,prior_experience_months,current_experience_months,total_experience_months
+20101001,1000,이종윤,남,1982-02-27,40대,임원,,대표이사,2010-09-10,2010-12-09,,15년 0개월,,15년 0개월,정규직,010-3170-6148,jy.lee@gbh.kr,서울본사,사무직,1. 재직,,0,180,180
+20161001,1001,이다영,여,1989-11-01,30대,GURM,,팀원,2016-08-22,2016-11-21,,9년 1개월,00년 00개월,9년 1개월,정규직,010-4128-5345,gbh202@gbh.kr,서울본사,사무직,1. 재직,,0,109,109
+20161002,1002,지영윤,여,1992-03-07,30대,OPERATION,CS,파트장,2016-09-27,2016-12-26,,8년 11개월,,8년 11개월,정규직,010-9095-7062,gbh102@gbh.kr,서울본사,사무직,1. 재직,,0,107,107
+20161003,1003,이호영,여,1986-02-12,30대,GURM,,팀장,2016-11-14,2017-02-13,,8년 10개월,04년 09개월,13년 7개월,정규직,010-4615-0266,gbh301@gbh.kr,서울본사,사무직,1. 재직,,57,106,163
+20171004,1004,고빛나,여,1987-01-27,30대,OFFLINE,,팀장,2017-07-01,2017-09-30,,8년 2개월,,8년 2개월,정규직,010-9489-1415,gbh303@gbh.kr,서울본사,비사무직,1. 재직,,0,98,98
+20191002,1008,조현채,여,1987-06-02,30대,APPAREL,,팀장,2019-06-17,2019-09-16,,6년 3개월,08년 09개월,15년 0개월,정규직,010-4268-4589,gbh505@gbh.kr,서울본사,비사무직,1. 재직,,105,75,180
